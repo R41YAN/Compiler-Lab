@@ -1,0 +1,70 @@
+Run:
+
+flex raiyan.l
+gcc lex.yy.c -o raiyan
+./raiyan
+
+
+
+Paste all together(Inputs):
+
+Addixx(10,20)
+Subixx(50,15)
+Multixx(6,7)
+Divixx(20,5)
+Modixx(17,5)
+Powerix(2,4)
+Sqrtixx(25)
+Absvall(-15)
+Maxvall(80,25)
+Minvall(80,25)
+Avgvall(10,20)
+Incvall(9)
+Decvall(9)
+Factvall(5)
+Logvall(100)
+Sinvall(30)
+Cosvall(60)
+Tanvall(45)
+Randvall()
+Roundvall(7.6)
+Floorvall(7.9)
+Ceilvall(7.1)
+Comparexx(20,15)
+Isequall(5,5)
+Notequall(5,9)
+Isgreaterr(20,10)
+Islesss(3,9)
+
+
+
+✅ Expected Outputs:
+
+Function Input	  Example Output
+Addixx(10,20)	  Result = 30
+Subixx(50,15)	  Result = 35
+Multixx(6,7)	  Result = 42
+Divixx(20,5)	  Result = 4
+Modixx(17,5)	  Result = 2
+Powerix(2,4)	  Result = 16
+Sqrtixx(25)	  Result = 5.00
+Absvall(-15)	  Result = 15
+Maxvall(80,25)	  Result = 80
+Minvall(80,25)	  Result = 25
+Avgvall(10,20)	  Result = 15.00
+Incvall(9)	  Result = 10
+Decvall(9)	  Result = 8
+Factvall(5)	  Result = 120
+Logvall(100)	  Result = 2.0000
+Sinvall(30)	  Result = 0.5000
+Cosvall(60)	  Result = 0.5000
+Tanvall(45)	  Result = 1.0000
+Randvall()	  Random number
+Roundvall(7.6)	  Result = 8
+Floorvall(7.9)	  Result = 7
+Ceilvall(7.1)	  Result = 8
+Comparexx(20,15)  20 is Greater
+Isequall(5,5)	  True
+Notequall(5,9)	  True
+Isgreaterr(20,10) True
+Islesss(3,9)	  True
