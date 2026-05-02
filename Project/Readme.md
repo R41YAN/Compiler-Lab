@@ -132,7 +132,7 @@ HELP()              → Lists all functions
 
 ## 👨‍💻 Author
 
-**Md. Raiyan**
+**R41YAN**
 
 ---
 
