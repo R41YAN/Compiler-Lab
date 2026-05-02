@@ -1,4 +1,4 @@
-# 🚀 RYNEX Language (Flex-Based Mini Interpreter)
+# 🚀 RYNEX Language 
 
 RYNEX is a simple **custom interpreter language** built using **Flex (Lexical Analyzer)** in C.  
 It supports arithmetic operations, mathematical functions, comparisons, and utility commands like HELP.
