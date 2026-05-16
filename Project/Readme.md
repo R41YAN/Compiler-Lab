@@ -1,6 +1,6 @@
 # 🚀 RYNEX Language v2
 
-RYNEX is a simple **custom interpreter language** built using **Flex (Lexical Analyzer)** in C.  
+RYNEX is a simple **custom interpreter language** built using **Flex (Lexical Analyzer)** in C/C++.  
 It supports arithmetic operations, mathematical functions, comparisons, and an **interactive numbered menu system**.
 
 ---
