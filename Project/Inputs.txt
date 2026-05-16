@@ -1,9 +1,8 @@
 Run:
 
 flex raiyan.l
-gcc lex.yy.c -o raiyan
-./raiyan
-
+gcc lex.yy.c -o rynex -lm
+./rynex
 
 
 Paste all together(Inputs):
